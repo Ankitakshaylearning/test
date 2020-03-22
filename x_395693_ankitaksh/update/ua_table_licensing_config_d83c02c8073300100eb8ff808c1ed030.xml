@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_395693_ankitaksh_progress_tracker</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-22 07:06:26</sys_created_on>
+        <sys_id>d83c02c8073300100eb8ff808c1ed030</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_395693_ankitaksh_progress_tracker</sys_name>
+        <sys_package display_value="AnkitAkshayLearning" source="x_395693_ankitaksh">44da0e48073300100eb8ff808c1ed0d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AnkitAkshayLearning">44da0e48073300100eb8ff808c1ed0d0</sys_scope>
+        <sys_update_name>ua_table_licensing_config_d83c02c8073300100eb8ff808c1ed030</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-22 07:06:26</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
